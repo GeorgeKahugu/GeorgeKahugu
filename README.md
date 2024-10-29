@@ -1,7 +1,3 @@
-## Hi there 👋
-
-[![MasterHead] (https://www.myersfreelance.com/wp-content/uploads/Search-Engines-Headings-e1525690735424.jpg)
-
 <h1 align="center">Hi 👋, I'm George Kahugu</h1>
 <h3 align="center">A passionate junior full-stack developer from Kenya</h3>
 
