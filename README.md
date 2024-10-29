@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/geo_gie_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="geo_gie_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/ george-kahugu-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ george-kahugu-" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/george-kahugu-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ george-kahugu-" height="30" width="40" /></a>
 <a href="https://fb.com/george kahugu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="george kahugu" height="30" width="40" /></a>
 <a href="https://instagram.com/georgiekahugu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="georgiekahugu" height="30" width="40" /></a>
 </p>
