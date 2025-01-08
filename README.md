@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/geo_gie_" target="blank"><img src="https://img.shields.io/twitter/follow/geo_gie_?logo=twitter&style=for-the-badge" alt="geo_gie_" /></a> </p>
 
-- 🔭 I’m currently working on [HR-MATIC Application](https://github.com/GeorgeKahugu/HR-MATIC-APPLICATION.git)
-
 - 🌱 I’m currently learning **React Native, Javascript, Python**
 
 - 💬 Ask me about **Flask, Python , React**
