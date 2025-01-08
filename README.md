@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Native, Javascript, Python**
 
-- 💬 Ask me about **Flask, Python , React**
+- 💬 Ask me about **Flask, Python , React, JavaScript**
 
 - 📫 How to reach me **gee.kahugu@gmail.com**
 
