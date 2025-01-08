@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [HR-MATIC Application](https://github.com/GeorgeKahugu/HR-MATIC-APPLICATION.git)
 
-- 🌱 I’m currently learning **Rust, Motoko, React Native, Javascript, Python**
+- 🌱 I’m currently learning **React Native, Javascript, Python**
 
 - 💬 Ask me about **Flask, Python , React**
 
