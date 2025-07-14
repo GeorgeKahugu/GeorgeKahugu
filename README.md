@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Flask, Python , React, JavaScript**
 
-- 📫 How to reach me **gee.kahugu@gmail.com**
+- 📫 How to reach me **kahugugeorge88@yahoomail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
