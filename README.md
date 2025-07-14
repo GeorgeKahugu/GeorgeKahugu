@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/geo_gie_" target="blank"><img src="https://img.shields.io/twitter/follow/geo_gie_?logo=twitter&style=for-the-badge" alt="geo_gie_" /></a> </p>
 
-- 🌱 I’m currently learning **React Native, Javascript, Python**
+- 🌱 I’m currently learning **Rust, Motoko, Django**
 
 - 💬 Ask me about **Flask, Python , React, JavaScript**
 
